@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 Welcome to my portfolio website! This is a personal project where I showcase my skills, experience, and projects as a full-stack web developer.
@@ -57,3 +58,6 @@ WhatsApp: 8982443551
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# Fs_Portfolio
+>>>>>>> e16b0728e3b66bfbe7ac121f28ed49adbbcc18cc
